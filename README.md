@@ -61,7 +61,7 @@ Multimodal prognostic modeling represents a particularly promising future direct
 data from neuromonitoring, neuroimaging, clinical records, and emerging biomarker assays, ML can
 generate personalized risk profiles for individual infants. These models could improve
 prognostication, guide follow-up intensity, and help allocate scarce clinical resources more
-efficiently. For in-depth reviews of different ML applications to the NICU, for example [see list of
+efficiently. For in-depth reviews of different ML applications to the NICU, [see list of
 references ](#references) at the end of this document.
 
 ## Implementation Considerations and Challenges
